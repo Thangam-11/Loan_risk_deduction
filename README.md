@@ -51,17 +51,17 @@ Install the required packages: pip install -r requirements.txt
 
 * Data Preprocessing:
 
-The dataset provides a comprehensive overview of financial loan applications, with each represented by a unique identification number (SK_ID_CURR). The primary target variable, TARGET, indicates whether the applicant defaulted on the loan (1) or not (0), crucial for assessing credit risk. Several key features aid in assessing creditworthiness, including personal demographics, financial status, employment details, housing situation, educational background, and family status. These attributes provide valuable context for evaluating an applicant's financial stability and ability to repay a loan.
+* Data Understanding: The dataset provides a comprehensive overview of financial loan applications, with each represented by a unique identification number. The primary target variable, TARGET, indicates whether the applicant defaulted on the loan (1) or not (0), crucial for assessing credit risk. Several key features aid in assessing creditworthiness, including personal demographics, financial status, employment details, housing situation, educational background, and family status. These attributes provide valuable context for evaluating an applicant's financial stability and ability to repay a loan.
 
-Handling Null Values:
+* Handling Null Values:
 
-Contributing:
+# Contributing:
 Contributions to this project are welcome! If you encounter issues or have suggestions for improvements, please submit a pull request.
 
-License:
+# License:
 This project is licensed under the MIT License. Refer to the LICENSE file for more details.
 
-Contact:
+# Contact:
 
 Email: thangamani1128@gmail.com
 LinkedIn: linkedin.com/in/thangarasu-m-
