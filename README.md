@@ -36,6 +36,46 @@ pip install xgboost
 pip install matplotlib
 pip install seaborn
 
+*Usage*:
+To use this project, follow these steps:
+
+git clone https://github.com/your_username/loan-default-risk-prediction.git
+
+Install the required packages: pip install -r requirements.txt
+
+Features:
+Data Preprocessing: 
+
+
+Data Understanding ;
+The dataset at hand provides a comprehensive overview of financial loan applications, each represented by a unique identification number (SK_ID_CURR). The primary target variable, TARGET, denotes whether the applicant defaulted on the loan (1) or not (0), making it a crucial factor in assessing credit risk.Several key features are included to aid in assessing an applicant's creditworthiness. These features encompass various aspects such as personal demographics (CODE_GENDER, FLAG_OWN_CAR, FLAG_OWN_REALTY), financial status (AMT_INCOME_TOTAL, AMT_CREDIT, AMT_ANNUITY), employment details (NAME_INCOME_TYPE, OCCUPATION_TYPE, DAYS_EMPLOYED),housing situation (NAME_HOUSING_TYPE, REGION_POPULATION_RELATIVE), educational background (NAME_EDUCATION_TYPE), and family status (CNT_CHILDREN, CNT_FAM_MEMBERS). These attributes can offer valuable context in evaluating an applicant's financial stability and ability to repay a loan.
+
+Handling Null Values:
+
+
+
+Contributing
+
+Contributions to this project are welcome! If you encounter any issues or have suggestions for improvements, please feel free to submit a pull request.
+
+License
+
+This project is licensed under the MIT License. Please review the LICENSE file for more details.
+
+Contact
+
+📧 Email: thangamani1128@gmail.com
+
+🌐 LinkedIn:linkedin.com/in/thangarasu-m-
+
+For any further questions or inquiries, feel free to reach out. We are happy to assist you with any queries.
+
+
+
+
+
+
+
 
 
 
