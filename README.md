@@ -28,12 +28,17 @@ This project addresses the challenges faced by lending institutions in assessing
 
 To run this project, install the required packages using the following commands:
 
-*pip install numpy
-*pip install pandas
-*pip install scikit-learn
-*pip install xgboost
-*pip install matplotlib
-*pip install seaborn
+pip install numpy
+
+pip install pandas
+
+pip install scikit-learn
+
+pip install xgboost
+
+pip install matplotlib
+
+pip install seaborn
 
 # Usage:
 
