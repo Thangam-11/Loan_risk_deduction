@@ -6,8 +6,8 @@ This project aims to address the challenges faced by lending institutions in ass
 
 
 # Table of Contents:
-* 1.Key Technologies and Skills
-* 2.Installation
+1.Key Technologies and Skills
+2.Installation
 3.Usage
 4.Features
 5.Contributing
