@@ -6,11 +6,11 @@ This project addresses the challenges faced by lending institutions in assessing
 
 # Table of Contents:
 
-*Key Technologies and Skills
-*Installation
-*Usage
-*Features
-*Contributing
+* Key Technologies and Skills
+* Installation
+* Usage
+* Features
+* Contributing
 *License
 *Contact
 
