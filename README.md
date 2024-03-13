@@ -11,20 +11,20 @@ This project addresses the challenges faced by lending institutions in assessing
 * Usage
 * Features
 * Contributing
-*License
-*Contact
+* License
+* Contact
 
-*Key Technologies and Skills:
+# Key Technologies and Skills:
 
-*Python
-*Pandas
-*NumPy
-*Scikit-learn
-*Matplotlib
-*Seaborn
-*Pickle
+* Python
+* Pandas
+* NumPy
+* Scikit-learn
+* Matplotlib
+* Seaborn
+* Pickle
 
-Installation:
+# Installation:
 
 To run this project, install the required packages using the following commands:
 
@@ -35,14 +35,14 @@ To run this project, install the required packages using the following commands:
 *pip install matplotlib
 *pip install seaborn
 
-*Usage:*
+# Usage:
 
 To use this project, follow these steps:
 
 Clone the repository: git clone https://github.com/Thangam-11/Loan_risk_deduction.git
 Install the required packages: pip install -r requirements.txt
 
-*Features:*
+*  Features: *
 
 *Data Preprocessing:*
 
