@@ -35,15 +35,16 @@ To run this project, install the required packages using the following commands:
 *pip install matplotlib
 *pip install seaborn
 
-Usage:
+*Usage:*
+
 To use this project, follow these steps:
 
 Clone the repository: git clone https://github.com/Thangam-11/Loan_risk_deduction.git
 Install the required packages: pip install -r requirements.txt
 
-Features:
+*Features:*
 
-Data Preprocessing:
+*Data Preprocessing:*
 
 The dataset provides a comprehensive overview of financial loan applications, with each represented by a unique identification number (SK_ID_CURR). The primary target variable, TARGET, indicates whether the applicant defaulted on the loan (1) or not (0), crucial for assessing credit risk. Several key features aid in assessing creditworthiness, including personal demographics, financial status, employment details, housing situation, educational background, and family status. These attributes provide valuable context for evaluating an applicant's financial stability and ability to repay a loan.
 
