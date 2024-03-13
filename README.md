@@ -25,5 +25,17 @@ This project aims to address the challenges faced by lending institutions in ass
 * Seaborn
 * Pickle
 
+  Installation:
+  
+To run this project, you need to install the following packages:
+
+pip install numpy
+pip install pandas
+pip install scikit-learn
+pip install xgboost
+pip install matplotlib
+pip install seaborn
+
+
 
 
