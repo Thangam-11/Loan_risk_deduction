@@ -2,7 +2,6 @@
 
 Introduction:
 
-
 This project addresses the challenges faced by lending institutions in assessing creditworthiness and predicting loan defaults. Leveraging machine learning techniques, the goal is to develop models that accurately predict the likelihood of a borrower defaulting on a loan. These models can assist lending institutions in making informed decisions about loan approvals, thus reducing the risk of financial losses due to defaults.
 
 # Table of Contents:
@@ -60,6 +59,7 @@ Contact:
 
 Email: thangamani1128@gmail.com
 LinkedIn: linkedin.com/in/thangarasu-m-
+
 For any further questions or inquiries, feel free to reach out. We are happy to assist you with any queries.
 
 
