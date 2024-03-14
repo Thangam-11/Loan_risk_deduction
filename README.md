@@ -60,10 +60,11 @@ Install the required packages: pip install -r requirements.txt
 * Handling Null Values:High percentages of null values may indicate data quality issues or inconsistencies. Dropping such columns can help maintain data integrity.
   categorical null values were handled, such as using a separate category label or imputing with Unknown.Numerical null values were handled, such as using a separate   imputing with Mean values.
   
-* Encoding and Data Type Conversion: The process involves preparing categorical features for modeling by transforming them into numerical representations, 
+* Encoding and Data Type Conversion:* The process involves preparing categorical features for modeling by transforming them into numerical representations, 
   considering their inherent nature and relationship with the target variable
   
 # Feature Selection Using PCA: Enhancing Model Efficiency:
+
   PCA, is a dimensionality reduction technique employed to transform a dataset with numerous correlated features into a set of linearly uncorrelated variables known 
   as principal components.PCA allows us to condense the dataset's complexity while retaining the essential information that contributes most significantly to 
   variance.
