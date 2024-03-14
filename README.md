@@ -65,22 +65,21 @@ Install the required packages: pip install -r requirements.txt
   
 # Feature Selection Using PCA: Enhancing Model Efficiency:
 
-  PCA, is a dimensionality reduction technique employed to transform a dataset with numerous correlated features into a set of linearly uncorrelated variables known 
-  as principal components.PCA allows us to condense the dataset's complexity while retaining the essential information that contributes most significantly to 
-  variance.
+   PCA, is a dimensionality reduction technique employed to transform a dataset with numerous correlated features into a set of linearly uncorrelated variables known 
+   as principal components.PCA allows us to condense the dataset's complexity while retaining the essential information that contributes most significantly to 
+   variance.
   
-    * Handling Data Imbalance: In our predictive analysis, we encountered data imbalance within the 'Target' feature. To address this issue, we implemented the 
+  *  Handling Data Imbalance: In our predictive analysis, we encountered data imbalance within the 'Target' feature. To address this issue, we implemented the 
      SMOTETomek oversampling method, ensuring our dataset is well-balanced. This enhancement significantly enhances the performance and reliability of our 
      classification tasks, yielding more accurate results in distinguishing between success and failure.
+    
+ # Machine Learning Classfication Model:
 
+   Model-Building:The first step in our algorithmic odyssey involves the division of the dataset into training and testing subsets. This partitioning ensures a 
+   robustevaluation of algorithmic performance, with the training set serving as the crucible for model learning and the testing set acting as a litmus test for 
+   predictive accuracy on unseen data.
 
-* #Machine Learning Classfication Model#:
-
-  #Model-Building:#The first step in our algorithmic odyssey involves the division of the dataset into training and testing subsets. This partitioning ensures a robust
-  evaluation of algorithmic performance, with the training set serving as the crucible for model learning and the testing set acting as a litmus test for predictive 
-  accuracy on unseen data.
-
-  * Algorithm Selection: After thorough evaluation Logistic Regression and XGB Classfication both are good testing accuracy.I choose the Xgb classfication for its 
+* Algorithm Selection: After thorough evaluation Logistic Regression and XGB Classfication both are good testing accuracy.I choose the Xgb classfication for its 
    ability to strike a balance between interpretability and accuracy, ensuring robust performance on unseen data.
   
 * Hyperparameter Tuning with GridSearchCV and Cross-Validation: To fine-tune our model and mitigate overfitting, we employ GridSearchCV with cross-validation for 
@@ -99,6 +98,7 @@ This project is licensed under the MIT License. Refer to the LICENSE file for mo
 # Contact:
 
 Email: thangamani1128@gmail.com
+
 LinkedIn: linkedin.com/in/thangarasu-m-
 
 For any further questions or inquiries, feel free to reach out. We are happy to assist you with any queries.
