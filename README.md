@@ -54,7 +54,14 @@ Install the required packages: pip install -r requirements.txt
 
 * Data Understanding: The dataset provides a comprehensive overview of financial loan applications, with each represented by a unique identification number. The primary target variable, TARGET, indicates whether the applicant defaulted on the loan (1) or not (0), crucial for assessing credit risk. Several key features aid in assessing creditworthiness, including personal demographics, financial status, employment details, housing situation, educational background, and family status. These attributes provide valuable context for evaluating an applicant's financial stability and ability to repay a loan.
 
-* Handling Null Values:
+* Handling Null Values:High percentages of null values may indicate data quality issues or inconsistencies. Dropping such columns can help maintain data integrity.
+  categorical null values were handled, such as using a separate category label or imputing with Unknown.Numerical null values were handled, such as using a separate  
+  imputing with Mean values.
+  
+
+* Feature Encoding:
+* Model Building:
+* Fine Tuneing:
 
 # Contributing:
 Contributions to this project are welcome! If you encounter issues or have suggestions for improvements, please submit a pull request.
