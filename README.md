@@ -45,6 +45,7 @@ pip install seaborn
 To use this project, follow these steps:
 
 Clone the repository: git clone https://github.com/Thangam-11/Loan_risk_deduction.git
+
 Install the required packages: pip install -r requirements.txt
 
 # Features:
